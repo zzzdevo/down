@@ -40,11 +40,11 @@ class Config(object):
     PROCESS_MAX_TIMEOUT = 3700
 
     # TG Ids
-    LOG_CHANNEL = -1007119867241
-    OWNER_ID = 1288398723
+    LOG_CHANNEL = -1001665233883
+    OWNER_ID = 833360381
 
     # bot username without @
-    BOT_USERNAME = "AdvanceUrlUploaderBot"
+    BOT_USERNAME = "IQDOWNBOT"
 
     # auth users
-    AUTH_USERS = [OWNER_ID]
+    AUTH_USERS = [833360381]
