@@ -12,8 +12,8 @@
     "remote",
     "uploader"
   ],
-  "website": "kalanakt.github.io/projects/telegram/all-url-uploader ",
-  "repository": "https://github.com/kalanakt/All-Url-Uploader",
+  "website": "zzzdevo.github.io/projects/telegram/down ",
+  "repository": "https://github.com/zzzdevo/down",
   "env": {
     "WEBHOOK": {
       "description": "Don't Need To change - Setting this to True when in env mode",
@@ -21,27 +21,27 @@
     },
     "BOT_TOKEN": {
       "description": "Your bot token, as a string.",
-      "value": ""
+      "value": "5853600134:AAEBZF6ZgSrpjYT2XnJKRwyLtt-EOtRV43Q"
     },
     "API_ID": {
       "description": "Get this value from https://my.telegram.org",
-      "value": ""
+      "value": "12962251"
     },
     "API_HASH": {
       "description": "Get this value from https://my.telegram.org",
-      "value": ""
+      "value": "b51499523800add51e4530c6f552dbc8"
     },
     "LOG_CHANNEL": {
       "description": "Your Any Own Private Channel ID Where Your Bot As Admin With Full Permission",
-      "value": ""
+      "value": "-1001665233883"
     },
     "OWNER_ID": {
       "description": "Your Telegram ID For Broadcast",
-      "value": "12345678"
+      "value": "833360381"
     },
     "BOT_USERNAME": {
       "description": "Your Bot Username Without @",
-      "value": ""
+      "value": "IQDOWNBOT"
     }
   },
   "addons": [
